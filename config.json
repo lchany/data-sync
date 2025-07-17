@@ -1,0 +1,14 @@
+{
+  "source": {
+    "host": "localhost",
+    "user": "root", 
+    "password": "password",
+    "port": 3306
+  },
+  "target": {
+    "host": "localhost",
+    "user": "root",
+    "password": "password", 
+    "port": 3307
+  }
+}
